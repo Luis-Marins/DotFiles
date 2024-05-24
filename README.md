@@ -6,3 +6,4 @@ DotFiles configurations Linux
 lsd
 bat
 the-silver-searcher
+lazygit
