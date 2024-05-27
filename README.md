@@ -3,7 +3,11 @@ DotFiles configurations Linux
 
 
 # PACKAGES installed:
-lsd
-bat
-the-silver-searcher
-lazygit
+-asdf
+--node
+
+-lsd
+-bat
+-the-silver-searcher
+-lazygit
+-live-server (NPM)
