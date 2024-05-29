@@ -1,15 +1,14 @@
 lvim.plugins = {
   {
-    "aurum77/live-server.nvim",
-    build = function()
-    require("live_server.util").install()
-    end,
-    cmd = { "LiveServer", "LiveServerStart", "LiveServerStop" },
+    'barrett-ruth/live-server.nvim',
+    build = 'pnpm add -g live-server',
+    cmd = { 'LiveServerStart', 'LiveServerStop' },
+    config = true
   },
   {
-   "norcalli/nvim-colorizer.lua",
+    "norcalli/nvim-colorizer.lua",
     config = function()
-    require("colorizer").setup()
+      require("colorizer").setup()
     end,
   },
   {
@@ -19,6 +18,6 @@ lvim.plugins = {
       -- your configuration comes here
       -- or leave it empty to use the default settings
       -- refer to the configuration section below
-     }
+    }
   },
 }
