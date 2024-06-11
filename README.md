@@ -11,3 +11,5 @@ DotFiles configurations Linux
 -the-silver-searcher
 -lazygit
 -live-server (NPM)
+ # Compatible Fonts package
+ -noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
