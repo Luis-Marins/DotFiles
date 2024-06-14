@@ -1,15 +1,35 @@
-# Luis Marins DotFiles system/LunarVim
-DotFiles configurations Linux
+# DotFiles de configurações
+- Configurações do sistema Linux, pacotes e plugins instalados
 
+# Pacotes instalados:
+-asdf (versionador e gerenciador de linguagens)
+-node (NodeJS Runtime de JavaScript)
+-lsd (comando LS otimizado)
+-bat (comando cat otimizado)
+-the-silver-searcher (comando grep otimizado)
+-lazygit (plugin de GIT para o NeoVim)
+-live-server (Biblioteca de servidor local JavaScript)
+ 
+# Pacotes de fontes para compatibilidade com NerdFonts (pacman):
+-noto-fonts
+-noto-fonts-cjk
+-noto-fonts-emoji
+-noto-fonts-extra
 
-# PACKAGES installed:
--asdf
---node
+# Settings DotFiles
+- Linux system settings, installed packages and plugins
 
--lsd
--bat
--the-silver-searcher
--lazygit
--live-server (NPM)
- # Compatible Fonts package
- -noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
+# Installed packages:
+-asdf (language versioner and manager)
+-node (NodeJS JavaScript Runtime)
+-lsd (optimized ls command)
+-bat (optimized cat command)
+-the-silver-searcher (optimized grep command)
+-lazygit (GIT plugin for NeoVim)
+-live-server (JavaScript Local Server Library)
+
+# Font packages for compatibility with NerdFonts (pacman)
+ -noto-fonts
+ -noto-fonts-cjk
+ -noto-fonts-emoji
+ -noto-fonts-extra
