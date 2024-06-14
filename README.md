@@ -9,6 +9,7 @@
 - the-silver-searcher (comando grep otimizado)
 - lazygit (plugin de GIT para o NeoVim)
 - live-server (Biblioteca de servidor local JavaScript)
+- vim-visual-multi (Biblioteca de comando para seleção multipla para VIM)
  
 # Pacotes de fontes para compatibilidade com NerdFonts (pacman):
 - noto-fonts
@@ -27,6 +28,7 @@
 - the-silver-searcher (optimized grep command)
 - lazygit (GIT plugin for NeoVim)
 - live-server (JavaScript Local Server Library)
+- vim-visual-multi (Command library for multiple selection for VIM)
 
 # Font packages for compatibility with NerdFonts (pacman)
 - noto-fonts
