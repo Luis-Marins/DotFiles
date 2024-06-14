@@ -20,4 +20,7 @@ lvim.plugins = {
       -- refer to the configuration section below
     }
   },
+  {
+    'mg979/vim-visual-multi',
+  },
 }
