@@ -16,7 +16,6 @@
 - wl-clipboard (utilitários de copiar/colar de linha de comando para Wayland)
 - zsh (um interpretador de comandos (shell) muito avançado e programável para UNIX)
 - starship (prompt de shell customizável)
-- 
  
 # Pacotes de fontes para compatibilidade com NerdFonts (pacman):
 - noto-fonts
