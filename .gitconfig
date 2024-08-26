@@ -1,0 +1,11 @@
+[user]
+  name = #name here
+  email = #email here
+[core]
+  editor = lvim
+[init]
+  defaultBranch = main
+[credential]
+  helper = store
+[pull]
+  rebase = true
