@@ -1,31 +1,3 @@
-# DotFiles de configurações
-- Configurações do sistema Linux, pacotes e plugins instalados
-
-# Pacotes instalados:
-- asdf (versionador e gerenciador de linguagens)
-- node (NodeJS Runtime de JavaScript)
-- lsd (comando LS otimizado)
-- neovim (editor de texto de linha de comando)
-- LunarVim (interface IDE para o neovim)
-- bat (comando cat otimizado)
-- the_silver_searcher (comando grep otimizado)
-- lazygit (plugin de GIT para o NeoVim)
-- live-server (Biblioteca de servidor local JavaScript)
-- vim-visual-multi (Biblioteca de comando para seleção multipla para VIM)
-- xclip (interface de linha de comando para a área de transferência do X11)
-- wl-clipboard (utilitários de copiar/colar de linha de comando para Wayland)
-- zsh (um interpretador de comandos (shell) muito avançado e programável para UNIX)
-- starship (prompt de shell customizável)
-- man-db (Utilitário para ler páginas de manuais)
-- tmux (Multiplexador de terminal)
- 
-# Pacotes de fontes para compatibilidade com NerdFonts (pacman):
-- noto-fonts
-- noto-fonts-cjk
-- noto-fonts-emoji
-- noto-fonts-extra
-- CaskaydiaCove Nerd Fonte
-
 # Settings DotFiles
 - Linux system settings, installed packages and plugins
 
@@ -52,3 +24,4 @@
 - noto-fonts-cjk
 - noto-fonts-emoji
 - noto-fonts-extra
+- CaskaydiaCove Nerd Fonte
