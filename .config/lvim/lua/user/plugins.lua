@@ -3,7 +3,11 @@ lvim.plugins = {
     'barrett-ruth/live-server.nvim',
     build = 'pnpm add -g live-server',
     cmd = { 'LiveServerStart', 'LiveServerStop' },
-    config = true
+    config = function()
+      require('live-server').setup({
+          args = { "--port=8080", "--browser=firefox-developer-edition" }
+      })
+    end
   },
   {
     "norcalli/nvim-colorizer.lua",
