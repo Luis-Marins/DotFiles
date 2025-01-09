@@ -18,6 +18,7 @@
 - starship (customizable costucross-shell prompt)
 - man-db (A utility for reading man pages)
 - tmux (terminal multiplexer)
+- tmux plugin manager (TPM)
 
 # Font packages for compatibility with NerdFonts (pacman)
 - noto-fonts
