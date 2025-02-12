@@ -12,9 +12,6 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-. ~/.asdf/asdf.sh
-. /opt/asdf-vm/asdf.sh
-
 export EDITOR='lvim'
 export VISUAL='lvim'
 
