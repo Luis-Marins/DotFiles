@@ -14,6 +14,7 @@ compinit
 
 export EDITOR='lvim'
 export VISUAL='lvim'
+export SYSTEMD_EDITOR=lvim
 
 export PATH=~/.asdf/bin:$PATH
 export PATH=~/.cargo/bin:$PATH
