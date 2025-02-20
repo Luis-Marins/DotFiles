@@ -19,6 +19,7 @@
 - man-db (A utility for reading man pages)
 - tmux (terminal multiplexer)
 - tmux plugin manager (TPM)
+- tinyxxd (optimized xxd command)
 
 # Font packages for compatibility with NerdFonts (pacman)
 - noto-fonts
