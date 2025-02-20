@@ -32,8 +32,8 @@ lvim.plugins = {
     -- defaults
     require 'hex'.setup {
 
-      -- cli command used to dump hex data
-      dump_cmd = 'xxd -u',
+      -- cli command used to dump hex data #edited to show 1 byte column
+      dump_cmd = 'xxd -g 2 -u',
 
       -- cli command used to assemble from hex data
       assemble_cmd = 'xxd -r',
