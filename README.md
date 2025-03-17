@@ -20,6 +20,9 @@
 - tmux (terminal multiplexer)
 - tmux plugin manager (TPM)
 - tinyxxd (optimized xxd command)
+- zsh-autosuggestions (auto-complete history zsh plugin)
+- zsh-syntax-highlighting (highlight commands zsh plugin) 
+- zsh-history-substring-search (auto-complete navigate for history zsh plugin)
 
 # Font packages for compatibility with NerdFonts (pacman)
 - noto-fonts
