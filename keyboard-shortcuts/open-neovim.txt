@@ -1,0 +1,3 @@
+Name: Open AstroNvim
+Command: kgx -e "bash -ic nvim"
+Shortcut: Ctrl + Alt + N

@@ -1,0 +1,3 @@
+Name: Open Terminal
+Command: kgx
+Shortcut: Ctrl + Alt + T
