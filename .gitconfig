@@ -1,8 +1,8 @@
 [user]
-  name = #name here
-  email = #email here
+  name = $NAME here
+  email = $EMAIL here
 [core]
-  editor = lvim
+  editor = nvim
 [init]
   defaultBranch = main
 [credential]
