@@ -1,0 +1,3 @@
+name: Update the system
+command: kgx --command="bash -c '~/.local/bin/system-update; exec bash'"
+shortcut: Super + U
