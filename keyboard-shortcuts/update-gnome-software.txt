@@ -1,0 +1,3 @@
+name: Open gnome-software
+command: gnome-software --mode=updates
+shortcut: SUper + G
