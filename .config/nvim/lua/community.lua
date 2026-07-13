@@ -20,4 +20,6 @@ return {
   { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.pack.python" },
   -- import/override with your plugins folder
+  { import = "astrocommunity.code-runner.compiler-nvim" },
+  { import = "astrocommunity.pack.java" },
 }
