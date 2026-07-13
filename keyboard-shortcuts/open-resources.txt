@@ -1,0 +1,3 @@
+name: Open Resources
+command: flatpak run net.nokyan.Resources
+shortcut: Super + Delete
